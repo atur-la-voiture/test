@@ -1,1 +1,1 @@
-<?php echo base64_encode(readfile('en_lang.php')); ?>
+<?php echo base64_encode(file_get_contents('en_lang.php')); ?>
