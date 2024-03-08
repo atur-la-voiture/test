@@ -1,1 +1,1 @@
-<?php echo vardump() ?>
+<?php vardump() ?>
