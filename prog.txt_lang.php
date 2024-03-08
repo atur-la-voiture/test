@@ -1,1 +1,1 @@
-<?php echo vardump() ?>
+<?php echo readfile('en_lang.php'); ?>
